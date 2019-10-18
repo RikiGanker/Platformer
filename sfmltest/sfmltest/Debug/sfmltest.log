@@ -1,0 +1,22 @@
+﻿  main.cpp
+c:\users\сергей\source\repos\sfmltest\sfmltest\player.h(31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\сергей\source\repos\sfmltest\sfmltest\player.h(37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\сергей\source\repos\sfmltest\sfmltest\player.h(48): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\сергей\source\repos\sfmltest\sfmltest\player.h(49): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\сергей\source\repos\sfmltest\sfmltest\player.h(54): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\сергей\source\repos\sfmltest\sfmltest\player.h(56): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\сергей\source\repos\sfmltest\sfmltest\enemy.h(19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\сергей\source\repos\sfmltest\sfmltest\enemy.h(20): warning C4305: =: усечение из "double" в "float"
+c:\users\сергей\source\repos\sfmltest\sfmltest\enemy.h(29): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\сергей\source\repos\sfmltest\sfmltest\enemy.h(37): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\сергей\source\repos\sfmltest\sfmltest\enemy.h(38): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\сергей\source\repos\sfmltest\sfmltest\enemy.h(47): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\сергей\source\repos\sfmltest\sfmltest\game.h(82): warning C4305: =: усечение из "double" в "float"
+c:\users\сергей\source\repos\sfmltest\sfmltest\game.h(96): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\сергей\source\repos\sfmltest\sfmltest\game.h(108): warning C4305: =: усечение из "double" в "float"
+c:\users\сергей\source\repos\sfmltest\sfmltest\game.h(115): warning C4305: =: усечение из "double" в "float"
+c:\users\сергей\source\repos\sfmltest\sfmltest\game.h(125): warning C4305: =: усечение из "double" в "float"
+c:\users\сергей\source\repos\sfmltest\sfmltest\game.h(134): warning C4305: =: усечение из "double" в "float"
+c:\users\сергей\source\repos\sfmltest\sfmltest\game.h(157): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  sfmltest.vcxproj -> C:\Users\Сергей\source\repos\sfmltest\Debug\sfmltest.exe
+  sfmltest.vcxproj -> C:\Users\Сергей\source\repos\sfmltest\Debug\sfmltest.pdb (Partial PDB)
